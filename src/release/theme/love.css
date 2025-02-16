@@ -46,4 +46,5 @@ a:hover {
     display: block;
     border: 0px none;
     visibility: hidden;
+    image-rendering: pixelated;
 }
